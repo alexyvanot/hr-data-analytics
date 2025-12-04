@@ -2,7 +2,7 @@
 Machine Learning Project – DataCrafting & Data Mining
 
 ### Got to the Jupyter Notebook for full analysis:  
-[ProjetFinal_DataCrafting_Mining.ipynb](./ProjetFinal_DataCrafting_Mining.ipynb)
+### [ProjetFinal_DataCrafting_Mining.ipynb](./ProjetFinal_DataCrafting_Mining.ipynb)
 
 > This project focuses on analyzing a synthetic HR dataset in order to:
 > - clean and preprocess employee information
